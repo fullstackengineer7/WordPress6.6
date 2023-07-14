@@ -1,2 +1,2 @@
 # WordPress6.6
-WordPress6.6 Landing Page
+WordPress6.2 Landing Page
